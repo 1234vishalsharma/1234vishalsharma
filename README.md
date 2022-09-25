@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">Passionate, Dedicated, Trustworthiness and Respectfulness.</h3>
-<img align="right" alt="Connecting..." width="300" src="https://giffiles.alphacoders.com/209/209661.gif">
+<img align="right" alt="Connecting..." width="350" src="https://giffiles.alphacoders.com/209/209661.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1234vishalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="1234vishalsharma" /> </p>
 
