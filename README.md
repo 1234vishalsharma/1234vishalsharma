@@ -36,3 +36,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1234vishalsharma&show_icons=true&locale=en&layout=compact" alt="1234vishalsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1234vishalsharma&" alt="1234vishalsharma" /></p>
+
+<img align="center" alt="Connecting..." width="500" src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2019/07/giphy-2.gif">
