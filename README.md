@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Desktop AI Assistance](https://github.com/1234vishalsharma/COD-e-WOR-k/blob/main/python/jarvis.py)
 
-- 🌱 I’m currently learning **Flutter and Advanced DSA**
+- 🌱 I’m currently learning **Kotlin and Advanced DSA**
 
 - 🤝 If you want a team then DM me @ **vishalsharma15122003@gmail.com**
 
