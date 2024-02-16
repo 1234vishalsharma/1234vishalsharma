@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1234vishalsharma" alt="1234vishalsharma" /></a> </p>
 
-- 🔭 I’m currently working on [Desktop AI Assistance](https://github.com/1234vishalsharma/COD-e-WOR-k/blob/main/python/jarvis.py)
+- 🔭 I’m currently working on Mern Stack Development
 
 - 🌱 I’m currently learning **Kotlin and Advanced DSA**
 
