@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
+<h1 align="center">Hi Everyone 👋, I'm Vishal Sharma</h1>
 <h3 align="center">Passionate, Dedicated, Trustworthiness and Respectfulness.</h3>
 <img align="right" alt="Connecting..." width="350" src="https://giffiles.alphacoders.com/209/209661.gif">
 
