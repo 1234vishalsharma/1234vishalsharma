@@ -1,9 +1,9 @@
 <h1 align="center">Hi Everyone 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A Passionate Software developer</h3>
 
-- 🔭 I’m currently working on Mern Stack Development
+- 🔭 I’m currently working on FARM Stack (FastAPI ReactJS, MongoDB)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **FastAPI**
 
 - 🤝 If you want a team then DM me @ **vishalsharma15122003@gmail.com**
 
