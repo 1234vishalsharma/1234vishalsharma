@@ -1,19 +1,17 @@
 <h1 align="center">Hi Everyone 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A Passionate Software developer</h3>
 
-- 🔭 I’m currently working on FARM Stack (FastAPI ReactJS, MongoDB)
+- 🔭 I’m currently working on NEXT JS (NEXT_JS ReactJS, MongoDB)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently **Building Myself.**
 
-- 🤝 If you want a team then DM me @ **vishalsharma15122003@gmail.com**
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/1234vishalsharma/)
 
-- 👨‍💻 All of my projects are available at [Code-Work](https://github.com/1234vishalsharma/COD-e-WOR-k)
+- 💬 Ask me about **C/C++ and Development**
 
-- 💬 Ask me about **C/C++ and python**
+- 📫 How to reach me **host.vishalsharma@gmail.com**
 
-- 📫 How to reach me **vishalsharma15122003@gmail.com**
-
-- ⚡ Fun fact **I don't think I am funny**
+- ⚡ Fun fact **No Fun Fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
